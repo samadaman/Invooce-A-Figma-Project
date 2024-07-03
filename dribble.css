@@ -1,0 +1,71 @@
+header{
+    display: flex;
+    font-size: larger;
+    font-weight: bolder;
+    height: 50px;
+}
+header h2{
+    display: flex;
+    align-items: center;
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.google{
+    width: 300px;
+    background-color: transparent;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: small;
+    font-weight: bold;
+}   
+button img{
+    margin-top: 5px;
+}
+.formfill{
+    width: 300px;
+    height: 35px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+label{
+    font-size: medium;
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+}
+label a{
+    margin-left: 50px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.login-btn{
+    background-color: rgb(63, 63, 194);
+    width: 300px;
+    height: 40px;
+    border: none;
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin-top: 40px;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+}
+.link12{
+    margin-top: 10px;
+}
+.link1{
+    color: gray;
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+
+}
+.link2{
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 10px;
+}
