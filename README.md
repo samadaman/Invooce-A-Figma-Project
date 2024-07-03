@@ -5,6 +5,6 @@ This project represents one of my early learning experiences with CSS. It may ha
 This project was created during my learning phase to explore CSS capabilities. It includes various styling attempts and may exhibit alignment challenges.
 
 ## Features:
-### Basic CSS styling
-### Simple layout attempts
-### Valuable learning experience
+#### Basic CSS styling
+#### Simple layout attempts
+#### Valuable learning experience
